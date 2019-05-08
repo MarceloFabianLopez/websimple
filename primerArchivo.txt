@@ -1,0 +1,4 @@
+Este es para ayuda memoria
+
+Primero crear un index.html
+segundo incluir lo necesario para bootstrap
